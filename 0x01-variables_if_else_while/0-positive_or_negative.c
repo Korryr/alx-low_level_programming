@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/* main - code for positive and negative */
-
-/* betty style doc for function main goes there */
+/**
+ * Main - a program running positive and negative
+ *
+ * Return: 0 success
+ */
 int main(void)
 {
 	int n;
