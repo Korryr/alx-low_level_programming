@@ -1,4 +1,4 @@
-#include <main.h>
+#include"main.h"
 /**
  * main - print _putchar
  * is written by me
@@ -6,8 +6,8 @@
  */
 int main(void)
 {
-	putchar("_putchar");
-	putchar("\n");
-	return (0);
+	_putchar("_putchar");
+	_putchar("\n");
+	_return (0);
 }
 
