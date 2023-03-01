@@ -4,7 +4,7 @@
  *
  * @s: convert from
  *
- * Return: integer from conversion
+ * Return: integer conversion
  */
 int _atoi(char *s)
 {
